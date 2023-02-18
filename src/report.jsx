@@ -74,7 +74,7 @@ export default class report extends Component {
       <div>
         <Navbar bg="primary" variant="dark">
           <Container>
-            <Navbar.Brand href="#">ค้นหาเลขไปรษณีย์</Navbar.Brand>
+            <Navbar.Brand href="#">ค้นหาเลขไปรษณีย์สิจ๊ะ~~</Navbar.Brand>
             <h5 style={{color:"white", margin:"0"}}>{this.name}</h5>
           </Container>
         </Navbar>
