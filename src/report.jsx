@@ -74,7 +74,7 @@ export default class report extends Component {
       <div>
         <Navbar bg="primary" variant="dark">
           <Container>
-            <Navbar.Brand href="#">ค้นหาเลขไปรษณีย์สิจ๊ะ~~</Navbar.Brand>
+            <Navbar.Brand href="#">ค้นหาเลขไปรษณีย์</Navbar.Brand>
             <div style={{display:"flex",alignItems:"center"}}>
               <img style={{border:"solid white 5px",borderRadius:"300px",marginRight:"25px"}} 
                 src="https://avatars.githubusercontent.com/u/110652592?s=400&u=6b0771e8c2636d2b5fadea007fec6120f2f7dfd8&v=4" 
