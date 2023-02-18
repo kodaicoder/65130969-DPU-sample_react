@@ -75,6 +75,7 @@ export default class report extends Component {
         <Navbar bg="primary" variant="dark">
           <Container>
             <Navbar.Brand href="#">ค้นหาเลขไปรษณีย์สิจ๊ะ~~</Navbar.Brand>
+            <img src="https://cdn.vox-cdn.com/thumbor/iApQdbuREzxb_UPO0N1GKHYalKA=/0x0:1147x647/920x613/filters:focal(483x233:665x415):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/70742090/Jotaro.0.jpeg" alt="jojo image" width="50" style={{borderRadius:"100"}} />
             <h5 style={{color:"white", margin:"0"}}>{this.name}</h5>
           </Container>
         </Navbar>
