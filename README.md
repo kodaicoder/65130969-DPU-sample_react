@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is for learning a github and git
+This project is for learning a github and git ,  ou need to run `npm i` for the first time you use this repository
 
 ## Available Scripts
 
