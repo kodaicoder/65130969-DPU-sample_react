@@ -20,7 +20,7 @@ export default class report extends Component {
     province_name: "",
     district: [],
   };
-  name = "65130969 Nutchapon Makelai"
+  name = "65130969 ณัชพล เมฆลาย"
 
   getData = async () => {
     
@@ -76,12 +76,10 @@ export default class report extends Component {
           <Container>
             <Navbar.Brand href="#">ค้นหาเลขไปรษณีย์สิจ๊ะ~~</Navbar.Brand>
             <div style={{display:"flex",alignItems:"center"}}>
-
-            <img style={{borderRadius:"300px",marginRight:"25px"}} 
-            src="https://avatars.githubusercontent.com/u/110652592?s=400&u=6b0771e8c2636d2b5fadea007fec6120f2f7dfd8&v=4" 
-            alt="avatar" width={100} height={100} />
-
-            <h5 style={{color:"white", margin:"0"}}>{this.name}</h5>
+              <img style={{borderRadius:"300px",marginRight:"25px"}} 
+                src="https://avatars.githubusercontent.com/u/110652592?s=400&u=6b0771e8c2636d2b5fadea007fec6120f2f7dfd8&v=4" 
+                alt="avatar" width={100} height={100} />
+              <h5 style={{border:"solid white 5px",color:"white", margin:"0"}}>{this.name}</h5>
             </div>
           </Container>
         </Navbar>
